@@ -6,12 +6,15 @@ AtliQ Hardware is a company which supplies computer hardware and peripherals to 
 The company has a head office in Delhi and regional offices throughout India.
 
 Business Issue:
+
 The director is struggling to track the company's business growth, as overall sales have been declining. The director relies on regional managers for North India, South India, and Central India to provide insights into their respective regions. However, obtaining these insights involves calling the managers and receiving information over the phone, which hinders effective and efficient decision-making.
 
 Insight:
+
 As AtiQ is a significant business, the director recognizes the need for data-driven decision-making to increase sales effectively. The director is seeking a solution in the form of a user-friendly data visualization tool, such as Power BI, which will enable daily access to a customized sales dashboard. This project aims to assist AtiQ in developing their own sales-related dashboard to facilitate data-driven decision-making and enhance overall sales performance.
 
 Solution:
+
 Create a simple and informative dashboard about the company sales.
 
 Step1:

@@ -48,6 +48,24 @@ Step 5:
 >Final Report
 Based on the dashboards insights, I have made some conclusions and recommendation that Sales Marketing team should/can consider making a sales strategy.
 
+#Year_wise Data Analysis
+>Dashboard for 2020
+
+![alter text](Analysis_2020.png)
+
+>Dashboard for 2019
+
+![alter text](Analysis_2019.png)
+
+>Dashboard for 2018
+
+![alter text](Analysis_2018.png)
+
+>Dashboard for 2017
+
+![alter text](Analysis_2017.png)
+
+
 #Conclusions:
 
 Sales were rapidly decreasing in 2020 compared to 2019.

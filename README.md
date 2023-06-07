@@ -28,9 +28,11 @@ Step 2:
 
 Step 3:
 >Data Transformation in Power BI
+
 Once the data is imported in Power BI, we do ‘transform data’ i.e. using the Power Query editor to perform certain operations on to the data. Ensuring correct data types, and creating custom/conditional columns are some fundamental task performed in Power Query.
 
 >Modeling Schema in Power BI
+
 Created 'one to many' relationship model between dimension table and fact table using primary key and foreign key concept.
 
 >Created Measures

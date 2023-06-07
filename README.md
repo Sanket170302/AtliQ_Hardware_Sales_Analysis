@@ -57,6 +57,7 @@ Sales were rapidly decreasing in 2020 compared to 2019.
 
 3.The most important customer for company is Electricalsara Store by Revenue as well as quantity sold.
 
+
 #Recommendations:
 
 1.Make a new sales strategy for lucknow since its showing lowest revenue and negative profit margin and if possible so as for Surat and Bhubaneshwar also.

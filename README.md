@@ -6,7 +6,7 @@ AtliQ Hardware is a company which supplies computer hardware and peripherals to 
 The company has a head office in Delhi and regional offices throughout India.
 
 #Business Issue:
-
+![alt text](Analysis_2019.png)
 The director is struggling to track the company's business growth, as overall sales have been declining. The director relies on regional managers for North India, South India, and Central India to provide insights into their respective regions. However, obtaining these insights involves calling the managers and receiving information over the phone, which hinders effective and efficient decision-making.
 
 #Insight:

@@ -1,6 +1,7 @@
 # AtliQ Hardware Sales Analysis
 
 #Problem Statement :
+
 AtliQ Hardware is a company which supplies computer hardware and peripherals to many clients across India;
 The company has a head office in Delhi and regional offices throughout India.
 

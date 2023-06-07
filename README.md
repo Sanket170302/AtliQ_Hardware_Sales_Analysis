@@ -51,10 +51,10 @@ Based on the dashboards insights, I have made some conclusions and recommendatio
 
 Sales were rapidly decreasing in 2020 compared to 2019.
 
-Highest revenue generated from markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur and so on.
-Highest quantities sold in Markets such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad and so on.
+1.Highest revenue generated from markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur and so on.
 
-The most important customer for company is Electricalsara Store by Revenue as well as quantity sold.
+2.Highest quantities sold in Markets such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad and so on.
+3.The most important customer for company is Electricalsara Store by Revenue as well as quantity sold.
 
 #Recommendations:
 
